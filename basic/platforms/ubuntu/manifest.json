@@ -1,0 +1,1 @@
+{"name":"com.phonegap.helloworld","version":"1.0.0","title":"Hello World","hooks":{"cordova":{"desktop":"cordova.desktop","apparmor":"apparmor.json"}},"framework":"ubuntu-sdk-13.10","maintainer":"PhoneGap Team <support@phonegap.com>","architecture":"amd64","description":"Hello World sample application that responds to the deviceready event."}
